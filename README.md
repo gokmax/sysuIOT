@@ -9,5 +9,4 @@ show page of sysuIOT experiment-box
      •using simple template to make up all the website
 
 
-
-[you can see the demo here](http://gokmax.com)
+You can click [demo](http://gokmax.com) the have a quick look of this project. ^0^
