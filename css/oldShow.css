@@ -1,0 +1,75 @@
+/*
+ * here is the cacading style sheet of the show page.
+ */
+
+#content #leftPart {
+    float:left;
+    padding-left:100px;
+    padding-right:160px; /* 250 */
+    padding-top:70px;
+}
+
+#content #leftPart #p0,#p1,#p2,#p3,#p4{
+    padding-left:15px;
+    color:rgb(51, 204, 204);
+
+}
+
+#content #middlePart{
+    padding-top:70px;
+    float:left;
+    padding-left:40px;
+    padding-right:180px; /* 400 */
+}
+
+#content #middlePart #flo0, #flo1, #flo2, #flo3, #flo4 {
+    float:left;
+    font-size:16px;
+    padding-right:4px;
+}
+
+#content #middlePart #flo5{
+    float:left;
+    font-size:16px;
+    padding-right:18px;
+}
+
+#content #middlePart #flo6{
+    float:left;
+    font-size:16px;
+    padding-right:11px;
+}
+
+#content #middlePart #flo7 {
+    float:left;
+    font-size:16px;
+    padding-right:0px;
+}
+
+#content #middlePart img {
+    width:80px;
+    height:40px;
+    padding-bottom:3px;
+}
+
+#content #rightPart {
+    padding-top:70px;
+    padding-right:320px;
+    float:right;
+}
+
+#content #rightPart #x1, #x2, #x3, #x4 {
+    color:rgb(51, 204, 204);
+    padding-left:50px;
+}
+
+#content #rightPart #y1, #y2, #y3, #y4{
+    padding-left: 70px;
+}
+
+#content #line1 {
+    float:left;
+}
+
+#content #line2 {
+}
