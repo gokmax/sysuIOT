@@ -1,7 +1,7 @@
 sysuIOT
 =======
 
-show page of sysuIOT experiment-box
+#show page of sysuIOT experiment-box
 
      •using simple html5 and php to set up the show page
   
